@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = wolvinl@yahoo.com
+	name = TishaWolfert wolvinl@yahoo.com
